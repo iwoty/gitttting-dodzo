@@ -12,3 +12,7 @@ print ("HelloZMIANA NAGLA HISZPANSKA INKWIZYCJA")
 =======
 print("Hello git, chujchujchuchuchcuchhucj")
 >>>>>>> 38ed75881df04d8448b4b4bcf9618ed337749938
+
+
+def nowafunckjashout():
+    print ("shput")
